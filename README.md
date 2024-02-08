@@ -5,7 +5,7 @@
 ## Problem Statement
 The goal of this project is to predict medical conditions based on patient reviews of drugs. Leveraging natural language processing (NLP) techniques and machine learning algorithms, the aim is to develop a model that can accurately classify medical conditions from the content of patient reviews.
 
-**Dataset Link:**[Click Me to See Dataset](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)
+**Click Here To See The Power BI Dashboard:**[Click Me to See Dashboard](https://archive.ics.uci.edu/dataset/462/drug+review+dataset+drugs+com)
 
 
 ## Overview
